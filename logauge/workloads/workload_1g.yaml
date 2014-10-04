@@ -1,0 +1,9 @@
+---
+
+version: 1
+
+input: data/syslog_1mill.log.tgz
+
+output: data/syslog_1g.log
+
+data_gb: 1
